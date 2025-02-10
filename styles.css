@@ -85,7 +85,7 @@ section a {
   background: #4c7766; /* Background color */
   color: #fbf0f4; /* Text color */
   padding: 20px;
-  border-radius: 8px;
+/*   border-radius: 8px; */
 }
 
 #certificates table {
